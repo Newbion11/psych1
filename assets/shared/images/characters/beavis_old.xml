@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="beavis_bop.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="beavis dance0000" x="5" y="5" width="199" height="491" frameX="0" frameY="-5" frameWidth="199" frameHeight="497"/>
+	<SubTexture name="beavis dance0001" x="5" y="5" width="199" height="491" frameX="0" frameY="-5" frameWidth="199" frameHeight="497"/>
+	<SubTexture name="beavis dance0002" x="209" y="5" width="198" height="495" frameX="0" frameY="-2" frameWidth="199" frameHeight="497"/>
+	<SubTexture name="beavis dance0003" x="209" y="5" width="198" height="495" frameX="0" frameY="-2" frameWidth="199" frameHeight="497"/>
+	<SubTexture name="beavis dance0004" x="412" y="5" width="197" height="496" frameX="0" frameY="-1" frameWidth="199" frameHeight="497"/>
+	<SubTexture name="beavis dance0005" x="412" y="5" width="197" height="496" frameX="0" frameY="-1" frameWidth="199" frameHeight="497"/>
+	<SubTexture name="beavis dance0006" x="614" y="5" width="197" height="497" frameX="0" frameY="0" frameWidth="199" frameHeight="497"/>
+	<SubTexture name="beavis dance0007" x="614" y="5" width="197" height="497" frameX="0" frameY="0" frameWidth="199" frameHeight="497"/>
+	<SubTexture name="beavis dance0008" x="816" y="5" width="197" height="497" frameX="0" frameY="0" frameWidth="199" frameHeight="497"/>
+	<SubTexture name="beavis dance0009" x="816" y="5" width="197" height="497" frameX="0" frameY="0" frameWidth="199" frameHeight="497"/>
+	<SubTexture name="beavis dance0010" x="816" y="5" width="197" height="497" frameX="0" frameY="0" frameWidth="199" frameHeight="497"/>
+	<SubTexture name="beavis dance0011" x="816" y="5" width="197" height="497" frameX="0" frameY="0" frameWidth="199" frameHeight="497"/>
+	<SubTexture name="beavis dance0012" x="816" y="5" width="197" height="497" frameX="0" frameY="0" frameWidth="199" frameHeight="497"/>
+	<SubTexture name="beavis dance0013" x="816" y="5" width="197" height="497" frameX="0" frameY="0" frameWidth="199" frameHeight="497"/>
+	<SubTexture name="beavis dance0014" x="816" y="5" width="197" height="497" frameX="0" frameY="0" frameWidth="199" frameHeight="497"/>
+	<SubTexture name="beavis dance0015" x="816" y="5" width="197" height="497" frameX="0" frameY="0" frameWidth="199" frameHeight="497"/>
+	<SubTexture name="beavis dance0016" x="816" y="5" width="197" height="497" frameX="0" frameY="0" frameWidth="199" frameHeight="497"/>
+	<SubTexture name="beavis dance0017" x="816" y="5" width="197" height="497" frameX="0" frameY="0" frameWidth="199" frameHeight="497"/>
+	<SubTexture name="beavis dance0018" x="816" y="5" width="197" height="497" frameX="0" frameY="0" frameWidth="199" frameHeight="497"/>
+	<SubTexture name="beavis dance0019" x="816" y="5" width="197" height="497" frameX="0" frameY="0" frameWidth="199" frameHeight="497"/>
+	<SubTexture name="beavis dance0020" x="816" y="5" width="197" height="497" frameX="0" frameY="0" frameWidth="199" frameHeight="497"/>
+	<SubTexture name="beavis dance0021" x="816" y="5" width="197" height="497" frameX="0" frameY="0" frameWidth="199" frameHeight="497"/>
+	<SubTexture name="beavis dance0022" x="816" y="5" width="197" height="497" frameX="0" frameY="0" frameWidth="199" frameHeight="497"/>
+	<SubTexture name="beavis dance0023" x="816" y="5" width="197" height="497" frameX="0" frameY="0" frameWidth="199" frameHeight="497"/>
+	<SubTexture name="beavis dance0024" x="816" y="5" width="197" height="497" frameX="0" frameY="0" frameWidth="199" frameHeight="497"/>
+	<SubTexture name="beavis dance0025" x="816" y="5" width="197" height="497" frameX="0" frameY="0" frameWidth="199" frameHeight="497"/>
+	<SubTexture name="beavis dance0026" x="816" y="5" width="197" height="497" frameX="0" frameY="0" frameWidth="199" frameHeight="497"/>
+	<SubTexture name="beavis dance0027" x="816" y="5" width="197" height="497" frameX="0" frameY="0" frameWidth="199" frameHeight="497"/>
+	<SubTexture name="beavis dance0028" x="816" y="5" width="197" height="497" frameX="0" frameY="0" frameWidth="199" frameHeight="497"/>
+	<SubTexture name="beavis dance0029" x="816" y="5" width="197" height="497" frameX="0" frameY="0" frameWidth="199" frameHeight="497"/>
+	<SubTexture name="beavis dance alt0000" x="1018" y="5" width="201" height="491" frameX="0" frameY="-5" frameWidth="201" frameHeight="497"/>
+	<SubTexture name="beavis dance alt0001" x="1018" y="5" width="201" height="491" frameX="0" frameY="-5" frameWidth="201" frameHeight="497"/>
+	<SubTexture name="beavis dance alt0002" x="1224" y="5" width="199" height="495" frameX="0" frameY="-2" frameWidth="201" frameHeight="497"/>
+	<SubTexture name="beavis dance alt0003" x="1224" y="5" width="199" height="495" frameX="0" frameY="-2" frameWidth="201" frameHeight="497"/>
+	<SubTexture name="beavis dance alt0004" x="1428" y="5" width="197" height="496" frameX="0" frameY="-1" frameWidth="201" frameHeight="497"/>
+	<SubTexture name="beavis dance alt0005" x="1428" y="5" width="197" height="496" frameX="0" frameY="-1" frameWidth="201" frameHeight="497"/>
+	<SubTexture name="beavis dance alt0006" x="1630" y="5" width="197" height="497" frameX="0" frameY="0" frameWidth="201" frameHeight="497"/>
+	<SubTexture name="beavis dance alt0007" x="1630" y="5" width="197" height="497" frameX="0" frameY="0" frameWidth="201" frameHeight="497"/>
+	<SubTexture name="beavis dance alt0008" x="1832" y="5" width="197" height="497" frameX="0" frameY="0" frameWidth="201" frameHeight="497"/>
+	<SubTexture name="beavis dance alt0009" x="1832" y="5" width="197" height="497" frameX="0" frameY="0" frameWidth="201" frameHeight="497"/>
+	<SubTexture name="beavis dance alt0010" x="1832" y="5" width="197" height="497" frameX="0" frameY="0" frameWidth="201" frameHeight="497"/>
+	<SubTexture name="beavis dance alt0011" x="1832" y="5" width="197" height="497" frameX="0" frameY="0" frameWidth="201" frameHeight="497"/>
+	<SubTexture name="beavis dance alt0012" x="1832" y="5" width="197" height="497" frameX="0" frameY="0" frameWidth="201" frameHeight="497"/>
+	<SubTexture name="beavis dance alt0013" x="1832" y="5" width="197" height="497" frameX="0" frameY="0" frameWidth="201" frameHeight="497"/>
+	<SubTexture name="beavis dance alt0014" x="1832" y="5" width="197" height="497" frameX="0" frameY="0" frameWidth="201" frameHeight="497"/>
+	<SubTexture name="beavis dance alt0015" x="1832" y="5" width="197" height="497" frameX="0" frameY="0" frameWidth="201" frameHeight="497"/>
+	<SubTexture name="beavis dance alt0016" x="1832" y="5" width="197" height="497" frameX="0" frameY="0" frameWidth="201" frameHeight="497"/>
+	<SubTexture name="beavis dance alt0017" x="1832" y="5" width="197" height="497" frameX="0" frameY="0" frameWidth="201" frameHeight="497"/>
+	<SubTexture name="beavis dance alt0018" x="1832" y="5" width="197" height="497" frameX="0" frameY="0" frameWidth="201" frameHeight="497"/>
+	<SubTexture name="beavis dance alt0019" x="1832" y="5" width="197" height="497" frameX="0" frameY="0" frameWidth="201" frameHeight="497"/>
+	<SubTexture name="beavis dance alt0020" x="1832" y="5" width="197" height="497" frameX="0" frameY="0" frameWidth="201" frameHeight="497"/>
+	<SubTexture name="beavis dance alt0021" x="1832" y="5" width="197" height="497" frameX="0" frameY="0" frameWidth="201" frameHeight="497"/>
+	<SubTexture name="beavis dance alt0022" x="1832" y="5" width="197" height="497" frameX="0" frameY="0" frameWidth="201" frameHeight="497"/>
+	<SubTexture name="beavis dance alt0023" x="1832" y="5" width="197" height="497" frameX="0" frameY="0" frameWidth="201" frameHeight="497"/>
+	<SubTexture name="beavis dance alt0024" x="1832" y="5" width="197" height="497" frameX="0" frameY="0" frameWidth="201" frameHeight="497"/>
+	<SubTexture name="beavis dance alt0025" x="1832" y="5" width="197" height="497" frameX="0" frameY="0" frameWidth="201" frameHeight="497"/>
+	<SubTexture name="beavis dance alt0026" x="1832" y="5" width="197" height="497" frameX="0" frameY="0" frameWidth="201" frameHeight="497"/>
+	<SubTexture name="beavis dance alt0027" x="1832" y="5" width="197" height="497" frameX="0" frameY="0" frameWidth="201" frameHeight="497"/>
+	<SubTexture name="beavis dance alt0028" x="1832" y="5" width="197" height="497" frameX="0" frameY="0" frameWidth="201" frameHeight="497"/>
+	<SubTexture name="beavis dance alt0029" x="1832" y="5" width="197" height="497" frameX="0" frameY="0" frameWidth="201" frameHeight="497"/>
+	<SubTexture name="ltor0000" x="816" y="5" width="197" height="497" frameX="0" frameY="-1" frameWidth="199" frameHeight="497"/>
+	<SubTexture name="ltor0001" x="816" y="5" width="197" height="497" frameX="0" frameY="-1" frameWidth="199" frameHeight="497"/>
+	<SubTexture name="ltor0002" x="5" y="507" width="197" height="495" frameX="0" frameY="-2" frameWidth="197" frameHeight="497"/>
+	<SubTexture name="ltor0003" x="5" y="507" width="197" height="495" frameX="0" frameY="-2" frameWidth="197" frameHeight="497"/>
+	<SubTexture name="ltor0004" x="207" y="507" width="197" height="494" frameX="0" frameY="-3" frameWidth="197" frameHeight="497"/>
+	<SubTexture name="ltor0005" x="207" y="507" width="197" height="494" frameX="0" frameY="-3" frameWidth="197" frameHeight="497"/>
+	<SubTexture name="ltor0006" x="409" y="507" width="197" height="493" frameX="0" frameY="-4" frameWidth="197" frameHeight="497"/>
+	<SubTexture name="ltor0007" x="409" y="507" width="197" height="493" frameX="0" frameY="-4" frameWidth="197" frameHeight="497"/>
+	<SubTexture name="ltor0008" x="611" y="507" width="197" height="496" frameX="0" frameY="-1" frameWidth="197" frameHeight="497"/>
+	<SubTexture name="ltor0009" x="611" y="507" width="197" height="496" frameX="0" frameY="-1" frameWidth="197" frameHeight="497"/>
+	<SubTexture name="ltor0010" x="813" y="507" width="197" height="497"/>
+	<SubTexture name="ltor0011" x="813" y="507" width="197" height="497"/>
+	<SubTexture name="rtol0000" x="813" y="507" width="197" height="497"/>
+	<SubTexture name="rtol0001" x="813" y="507" width="197" height="497"/>
+	<SubTexture name="rtol0002" x="611" y="507" width="197" height="496" frameX="0" frameY="-1" frameWidth="197" frameHeight="497"/>
+	<SubTexture name="rtol0003" x="611" y="507" width="197" height="496" frameX="0" frameY="-1" frameWidth="197" frameHeight="497"/>
+	<SubTexture name="rtol0004" x="409" y="507" width="197" height="493" frameX="0" frameY="-4" frameWidth="197" frameHeight="497"/>
+	<SubTexture name="rtol0005" x="409" y="507" width="197" height="493" frameX="0" frameY="-4" frameWidth="197" frameHeight="497"/>
+	<SubTexture name="rtol0006" x="207" y="507" width="197" height="494" frameX="0" frameY="-3" frameWidth="197" frameHeight="497"/>
+	<SubTexture name="rtol0007" x="207" y="507" width="197" height="494" frameX="0" frameY="-3" frameWidth="197" frameHeight="497"/>
+	<SubTexture name="rtol0008" x="5" y="507" width="197" height="495" frameX="0" frameY="-2" frameWidth="197" frameHeight="497"/>
+	<SubTexture name="rtol0009" x="5" y="507" width="197" height="495" frameX="0" frameY="-2" frameWidth="197" frameHeight="497"/>
+	<SubTexture name="rtol0010" x="816" y="5" width="197" height="497" frameX="0" frameY="-1" frameWidth="199" frameHeight="497"/>
+	<SubTexture name="rtol0011" x="816" y="5" width="197" height="497" frameX="0" frameY="-1" frameWidth="199" frameHeight="497"/>
+</TextureAtlas>
